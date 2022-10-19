@@ -1,6 +1,6 @@
 FROM softinstigate/maven-aws:3.0.0
 
-LABEL maintainer="SoftInstigate <info@softinstigate.com>"
+LABEL maintainer="Priyantha Gunawardena <pgdesigning@gmail.com>"
 
 ARG RELEASE
 
